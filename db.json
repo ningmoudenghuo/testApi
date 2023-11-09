@@ -1,36 +1,190 @@
 {
   "list": [
-    { "id": 1, "title": "Post 11111" ,"createTime": "2023-02-05","name": "ceshi1","age":12},
-    { "id": 2, "title": "Post 22222" ,"createTime": "2023-02-15","name": "ceshi2","age":18},
-    { "id": 3, "title": "Post 33333" ,"createTime": "2023-03-25","name": "ceshi3","age":13},
-    { "id": 4, "title": "Post 44444" ,"createTime": "2023-02-35","name": "ceshi4","age":16},
-    { "id": 5, "title": "Post 55555" ,"createTime": "2023-03-35","name": "ceshi5","age":14}
+    {
+      "id": 1,
+      "title": "Post 11111",
+      "createTime": "2023-02-05",
+      "name": "ceshi1",
+      "age": 12
+    },
+    {
+      "id": 2,
+      "title": "Post 22222",
+      "createTime": "2023-02-15",
+      "name": "ceshi2",
+      "age": 18
+    },
+    {
+      "id": 3,
+      "title": "Post 33333",
+      "createTime": "2023-03-25",
+      "name": "ceshi3",
+      "age": 13
+    },
+    {
+      "id": 4,
+      "title": "Post 44444",
+      "createTime": "2023-02-35",
+      "name": "ceshi4",
+      "age": 16
+    },
+    {
+      "id": 5,
+      "title": "Post 55555",
+      "createTime": "2023-03-35",
+      "name": "ceshi5",
+      "age": 14
+    }
   ],
   "options": [
-    { "id": 1, "label": "测试1", "value": 1 },
-    { "id": 2, "label": "测试2", "value": 2 },
-    { "id": 3, "label": "测试3", "value": 3 },
-    { "id": 4, "label": "测试4", "value": 4 }
+    {
+      "id": 1,
+      "label": "测试1",
+      "value": 1
+    },
+    {
+      "id": 2,
+      "label": "测试2",
+      "value": 2
+    },
+    {
+      "id": 3,
+      "label": "测试3",
+      "value": 3
+    },
+    {
+      "id": 4,
+      "label": "测试4",
+      "value": 4
+    }
   ],
   "options2": [
-    { "id": 1, "name": "管理员", "value": 1 },
-    { "id": 2, "name": "测试人员", "value": 2 },
-    { "id": 3, "name": "开发人员", "value": 3 },
-    { "id": 4, "name": "产品", "value": 4 },
-    { "id": 5, "name": "研发人员", "value": 5 }
+    {
+      "id": 1,
+      "name": "管理员",
+      "value": 1
+    },
+    {
+      "id": 2,
+      "name": "测试人员",
+      "value": 2
+    },
+    {
+      "id": 3,
+      "name": "开发人员",
+      "value": 3
+    },
+    {
+      "id": 4,
+      "name": "产品",
+      "value": 4
+    },
+    {
+      "id": 5,
+      "name": "研发人员",
+      "value": 5
+    }
   ],
-  "listUser":[
-    { "id": 1, "phone": "13141232221" ,"createTime": "2023-02-05","name": "蔡文姬","age":12,"sex":0,"role":1,"roleName":"管理员","state":1,"email":"caiwenji@qq.com","ip":"189.123.20.1"},
-    { "id": 2, "phone": "13356232221" ,"createTime": "2023-02-15","name": "上官婉儿","age":18,"sex":0,"role":2,"roleName":"开发人员","state":1,"email":"shangguanwaner@qq.com","ip":"189.123.12.1"},
-    { "id": 3, "phone": "13141232443" ,"createTime": "2023-02-03","name": "程咬金","age":34,"sex":1,"role":3,"roleName":"测试人员","state":0,"email":"chengyaojin@qq.com","ip":"189.123.2.18"},
-    { "id": 4, "phone": "13141235671" ,"createTime": "2023-02-06","name": "露娜","age":23,"sex":0,"role":1,"roleName":"管理员","state":0,"email":"luna@qq.com","ip":"189.123.32.11"},
-    { "id": 5, "phone": "13141239756" ,"createTime": "2023-02-11","name": "廉颇","age":67,"sex":1,"role":2,"roleName":"开发人员","state":1,"email":"lianpo@qq.com","ip":"189.123.112.1"},
-    { "id": 6, "phone": "19831232881" ,"createTime": "2023-02-09","name": "后羿","age":55,"sex":1,"role":3,"roleName":"测试人员","state":1,"email":"houyi@qq.com","ip":"189.123.22.14"}
+  "listUser": [
+    {
+      "id": 1,
+      "phone": "13141232221",
+      "createTime": "2023-02-05",
+      "name": "蔡文姬",
+      "age": 12,
+      "sex": 0,
+      "role": 1,
+      "roleName": "管理员",
+      "state": 1,
+      "email": "caiwenji@qq.com",
+      "ip": "189.123.20.1"
+    },
+    {
+      "id": 2,
+      "phone": "13356232221",
+      "createTime": "2023-02-15",
+      "name": "上官婉儿",
+      "age": 18,
+      "sex": 0,
+      "role": 2,
+      "roleName": "开发人员",
+      "state": 1,
+      "email": "shangguanwaner@qq.com",
+      "ip": "189.123.12.1"
+    },
+    {
+      "id": 3,
+      "phone": "13141232443",
+      "createTime": "2023-02-03",
+      "name": "程咬金",
+      "age": 34,
+      "sex": 1,
+      "role": 3,
+      "roleName": "测试人员",
+      "state": 0,
+      "email": "chengyaojin@qq.com",
+      "ip": "189.123.2.18"
+    },
+    {
+      "id": 4,
+      "phone": "13141235671",
+      "createTime": "2023-02-06",
+      "name": "露娜",
+      "age": 23,
+      "sex": 0,
+      "role": 1,
+      "roleName": "管理员",
+      "state": 0,
+      "email": "luna@qq.com",
+      "ip": "189.123.32.11"
+    },
+    {
+      "id": 5,
+      "phone": "13141239756",
+      "createTime": "2023-02-11",
+      "name": "廉颇",
+      "age": 67,
+      "sex": 1,
+      "role": 2,
+      "roleName": "开发人员",
+      "state": 1,
+      "email": "lianpo@qq.com",
+      "ip": "189.123.112.1"
+    },
+    {
+      "id": 6,
+      "phone": "19831232881",
+      "createTime": "2023-02-09",
+      "name": "后羿",
+      "age": 55,
+      "sex": 1,
+      "role": 3,
+      "roleName": "测试人员",
+      "state": 1,
+      "email": "houyi@qq.com",
+      "ip": "189.123.22.14"
+    }
   ],
-  "listRole":[
-       { "id": 1, "name": "管理员" ,"createTime": "2023-02-05"},
-       { "id": 2, "name": "开发人员" ,"createTime": "2023-02-06"},
-       { "id": 3, "name": "测试人员" ,"createTime": "2023-02-07"},
-       { "id": 4, "name": "运维人员" ,"createTime": "2023-02-11"}
+  "listRole": [
+    {
+      "id": 1,
+      "name": "管理员",
+      "createTime": "2023-02-05"
+    },
+    {
+      "id": 2,
+      "name": "开发人员",
+      "createTime": "2023-02-06"
+    },
+    {
+      "id": 3,
+      "name": "测试人员",
+      "createTime": "2023-02-07"
+    },
+    {
+      "id": 4,
+      "name": "运维人员",
+      "createTime": "2023-02-11"
+    }
   ]
 }
