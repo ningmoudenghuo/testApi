@@ -20,12 +20,12 @@
     { "id": 5, "name": "研发人员", "value": 5 }
   ],
   "listUser":[
-    { "id": 1, "phone": "13141232221" ,"createTime": "2023-02-05","name": "蔡文姬","age":12,"sex":0,"role":1,"roleName":"管理员","state":1,"email":"caiwenji@qq.com",ip:'189.123.20.1'},
-    { "id": 2, "phone": "13356232221" ,"createTime": "2023-02-15","name": "上官婉儿","age":18,"sex":0,"role":2,"roleName":"开发人员","state":1,"email":"shangguanwaner@qq.com",ip:'189.123.12.1'},
-    { "id": 3, "phone": "13141232443" ,"createTime": "2023-02-03","name": "程咬金","age":34,"sex":1,"role":3,"roleName":"测试人员","state":0,"email":"chengyaojin@qq.com",ip:'189.123.2.18'},
-    { "id": 4, "phone": "13141235671" ,"createTime": "2023-02-06","name": "露娜","age":23,"sex":0,"role":1,"roleName":"管理员","state":0,"email":"luna@qq.com",ip:'189.123.32.11'},
-    { "id": 5, "phone": "13141239756" ,"createTime": "2023-02-11","name": "廉颇","age":67,"sex":1,"role":2,"roleName":"开发人员","state":1,"email":"lianpo@qq.com",ip:'189.123.112.1'},
-    { "id": 6, "phone": "19831232881" ,"createTime": "2023-02-09","name": "后羿","age":55,"sex":1,"role":3,"roleName":"测试人员","state":1,"email":"houyi@qq.com",ip:'189.123.22.14'}
+    { "id": 1, "phone": "13141232221" ,"createTime": "2023-02-05","name": "蔡文姬","age":12,"sex":0,"role":1,"roleName":"管理员","state":1,"email":"caiwenji@qq.com","ip":'189.123.20.1'},
+    { "id": 2, "phone": "13356232221" ,"createTime": "2023-02-15","name": "上官婉儿","age":18,"sex":0,"role":2,"roleName":"开发人员","state":1,"email":"shangguanwaner@qq.com","ip":'189.123.12.1'},
+    { "id": 3, "phone": "13141232443" ,"createTime": "2023-02-03","name": "程咬金","age":34,"sex":1,"role":3,"roleName":"测试人员","state":0,"email":"chengyaojin@qq.com","ip":'189.123.2.18'},
+    { "id": 4, "phone": "13141235671" ,"createTime": "2023-02-06","name": "露娜","age":23,"sex":0,"role":1,"roleName":"管理员","state":0,"email":"luna@qq.com","ip":'189.123.32.11'},
+    { "id": 5, "phone": "13141239756" ,"createTime": "2023-02-11","name": "廉颇","age":67,"sex":1,"role":2,"roleName":"开发人员","state":1,"email":"lianpo@qq.com","ip":'189.123.112.1'},
+    { "id": 6, "phone": "19831232881" ,"createTime": "2023-02-09","name": "后羿","age":55,"sex":1,"role":3,"roleName":"测试人员","state":1,"email":"houyi@qq.com","ip":'189.123.22.14'}
   ],
   "listRole":[
        { "id": 1, "name": "管理员" ,"createTime": "2023-02-05",},
