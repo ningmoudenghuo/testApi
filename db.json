@@ -12,10 +12,11 @@
     { "id": 3, "label": "测试3", "value": 3 },
     { "id": 4, "label": "测试4", "value": 4 }
   ],
-  "options2": [
-    { "id": 1, "label": "测试11", "value": 1 },
-    { "id": 2, "label": "测试22", "value": 2 },
-    { "id": 3, "label": "测试33", "value": 3 },
-    { "id": 4, "label": "测试44", "value": 4 }
+  "optionsRole": [
+    { "id": 1, "name": "管理员", "value": 1 },
+    { "id": 2, "name": "测试人员", "value": 2 },
+    { "id": 3, "name": "工程师", "value": 3 },
+    { "id": 4, "name": "产品", "value": 4 },
+    { "id": 5, "name": "研发人员", "value": 5 },
   ]
 }
